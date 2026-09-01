@@ -13,7 +13,7 @@ library-name: match
 
 This repository hosts [[https://srfi.schemers.org/srfi-262/][SRFI 262]]: Extensible pattern matcher, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
-This SRFI is in /draft/ status.
+This SRFI is in /withdrawn/ status.
 See also [[/srfi-200/][SRFI 200: Pattern Matching]], [[/srfi-204/][SRFI 204: Wright-Cartwright-Shinn Pattern Matcher]], [[/srfi-241/][SRFI 241: Match — Simple Pattern-Matching Syntax to Express Catamorphisms on Scheme Data]], and [[/srfi-257/][SRFI 257: Simple extendable pattern matcher with backtracking]].
 The full documentation for this SRFI can be found in the [[https://srfi.schemers.org/srfi-262/srfi-262.html][SRFI Document]].
 
